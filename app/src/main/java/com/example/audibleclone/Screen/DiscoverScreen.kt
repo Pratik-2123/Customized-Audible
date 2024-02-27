@@ -180,19 +180,19 @@ val bestSellers = listOf<views>(
 )
 val newRelease = listOf<views>(
     views(
-        R.drawable.nr4,
+        R.drawable.nr3,
         "Cargo",
         "By Arati Kadav",
         "https://www.audible.in/pd/Cargo-The-End-Is-Just-the-Beginning-Podcast/B0CQN2DXBD?eac_link=vUvYYCkANWq2&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0CQN2DXBD&qid=9J2DbKZnkC&eac_id=262-8837439-7486201_9J2DbKZnkC&sr=1-1"
     ),
     views(
-        R.drawable.nr3,
+        R.drawable.nr2,
         "The Malabar Rebellion",
         "By Aisaville",
         "https://www.audible.in/pd/The-Malabar-Rebellion-Podcast/B0CP2WY3RH?qid=1709031499&sr=1-1&ref_pageloadid=not_applicable&ref=a_search_c3_lProduct_1_1&pf_rd_p=2d02bc98-4366-4f94-99d9-5e898cda0766&pf_rd_r=5WE3JB1PBFY17EF7D95F&pageLoadId=xp6wgLOlOlekIEPk&creativeId=b2592cc9-1111-40d9-9474-98f67c8075cc"
     ),
     views(
-        R.drawable.nr2,
+        R.drawable.nr4,
         "Lets talk Mutual Funds",
         "By Monika Halan",
         "https://www.audible.in/pd/Lets-Talk-Mutual-Funds-Audiobook/B0CCSSY1CZ?eac_link=dUGA3Bbg3Syc&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0CCSSY1CZ&qid=5dWVZrWEWB&eac_id=262-8837439-7486201_5dWVZrWEWB&sr=1-1"

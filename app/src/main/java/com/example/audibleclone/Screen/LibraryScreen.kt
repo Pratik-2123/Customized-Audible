@@ -102,12 +102,9 @@ fun ChipSection1() {
 @Composable
 fun ChipSection2() {
     val content = listOf("All Titles", "Not Started", "In Progress", "Downloaded", "Finished")
-    val uriHandler = LocalUriHandler.current
     LazyRow{
         items(content.size) {
-            OutlinedButton(onClick = {
-                    uriHandler.openUri("https://www.google.com/")
-            },
+            OutlinedButton(onClick = {},
                 modifier = Modifier.padding(start = 16.dp, top = 10.dp), 
                 shape = RoundedCornerShape(10.dp)
             ) {
